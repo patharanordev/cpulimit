@@ -34,6 +34,10 @@ Run unit tests:
 
     $ ./tests/process_iterator_test
 
+More detail
+-----------
+
+https://github.com/patharanordev/cpulimit/wiki/CPU-Usage-Limiter-for-Linux
 
 Contributions
 -------------
